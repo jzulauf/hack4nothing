@@ -24,7 +24,7 @@
 # if nothing is specified... and change it as we like
 DEFAULT_CONFIG = debug
 # What happens if you delete the # from the next line?
-DEFAULT_CONFIG = release
+#DEFAULT_CONFIG = release
 
 # The logic here is that if DEBUG is set
 # we get a debug configuration
