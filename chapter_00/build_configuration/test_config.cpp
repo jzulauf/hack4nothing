@@ -1,6 +1,6 @@
 /*
  * test_config.cpp
- * Copyright (C) 2016 jzulauf <jzulauf@office-server>
+ * Copyright (C) 2016 jzulauf <jzulauf530@gmail.com>
  *
  * Distributed under terms of the MIT license.
  *
